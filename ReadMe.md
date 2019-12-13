@@ -36,13 +36,13 @@
 
 
 
-#### 2. Feature annotation
+### 2. Feature annotation
 
-#### 3. Feature grouping
+### 3. Feature grouping
 
-#### 4. Normalization
+### 4. Normalization
 
-#### 5. Missing value imputation
+### 5. Missing value imputation
 
 ### 6. Integrated Framework
 
@@ -50,13 +50,13 @@
 
 ## Qualitative Analysis
 
-#### 1. Isotope analysis
+### 1. Isotope analysis
 
-#### 2. Fragmentation tree
+### 2. Fragmentation tree
 
-#### 3. In-silicon spectrum
+### 3. In-silicon spectrum
 
-#### 4. Fingerprint prediction
+### 4. Fingerprint prediction
 
 ### 5. Pathway-based method
 
