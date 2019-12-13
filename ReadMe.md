@@ -1,10 +1,10 @@
-## Workflow and Strategies for LC-MS based Qualitative and Quantitative Metabolomics Data Analysis
+# Workflow and Strategies for LC-MS based Qualitative and Quantitative Metabolomics Data Analysis
 
 ---
 
-### Quantitative Analysis
+## Quantitative Analysis
 
-#### 1. Feature detection
+### 1. Feature detection
 
 **XCMS Family**
 
@@ -44,11 +44,11 @@
 
 #### 5. Missing value imputation
 
-#### 6. Integrated Framework
+### 6. Integrated Framework
 
 
 
-### Qualitative Analysis
+## Qualitative Analysis
 
 #### 1. Isotope analysis
 
@@ -58,7 +58,7 @@
 
 #### 4. Fingerprint prediction
 
-#### 5. Pathway-based method
+### 5. Pathway-based method
 
 
 
