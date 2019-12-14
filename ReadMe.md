@@ -34,6 +34,24 @@
 
 [9] Yu, Tianwei, et al. "apLCMS--adaptive processing of high-resolution LC/MS data.." *Bioinformatics* 25.15 (2009): 1930-1936. [url](https://academic.oup.com/bioinformatics/article/25/15/1930/211035) *(adaptive binning size for EIC)*
 
+[10] Zhang, Wenchao, et al. "MET-COFEA: A Liquid Chromatography/Mass Spectrometry Data Processing Platform for Metabolite Compound Feature Extraction and Annotation." *Analytical Chemistry* 86.13 (2014): 6245-6253. [url](https://pubs.acs.org/doi/10.1021/ac501162k)
+
+[11] Lu, Peng, et al. "A novel strategy for extracted ion chromatogram extraction to improve peak detection in UPLC-HRMS." *Analytical Methods* 10.42 (2018): 5118-5126.[url](https://pubs.rsc.org/en/Content/ArticleLanding/2018/AY/C8AY01850B)
+
+[12] Yu, Yongjie, et al. "Automatic data analysis workflow for ultra-high performance liquid chromatography-high resolution mass spectrometry-based metabolomics." *Journal of Chromatography A* (2019): 172-181.[url](https://www.sciencedirect.com/science/article/pii/S002196731831495X)
+
+[13] Fu, Haiyan, et al. "AntDAS: Automatic Data Analysis Strategy for UPLC–QTOF-Based Nontargeted Metabolic Profiling Analysis." *Analytical Chemistry* 89.20 (2017): 11083-11090.[url](https://pubs.acs.org/doi/10.1021/acs.analchem.7b03160)
+
+
+
+**Pure Ion chromatography**
+
+
+
+**Derivative and GUI**
+
+
+
 
 
 ### 2. Feature annotation
